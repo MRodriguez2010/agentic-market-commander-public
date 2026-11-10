@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+backend/data/
+artifacts/
+node_modules/
+dist/
+*.tsbuildinfo
+vite.config.d.ts
+.env
+.env.local
